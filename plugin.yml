@@ -1,0 +1,15 @@
+main: de.SlamWeasel.BuildersHelpers.main.Main
+version: 0.7.2.14
+name: BuildersHelpersBySlamWeasel
+author: SlamWeasel
+
+commands:
+    menu:
+        description: Uebercommand fuer viele Funktionen von Builders Helpers by SlamWeasel fuer weitere Funktionen gibt bh help ein
+        aliases: [bh, menü]
+    wand:
+        description: Gibt dir einen Zauberstab mit vielen Funktionen
+        aliases: [wand, stick, stock, zauberstab, zs, w]
+    back:
+        description: Bringt den Spieler zum Punkt von dem man gerade gekommen ist zurueck
+        aliases: [back, zurück]
